@@ -3,7 +3,7 @@ Create your own site using VirtualPet (designed by [CyberPig123](https://github.
 1) To adopt your very own Pet Egg click "Use this template"
 2) Enter [your-user-name].github.io as the repository name (for instance, I would put JessRudder.github.io)
 3) Click "Create repository from template"
-4) Go to [your-user-name].github.io and start playing with your new Pet Egg! See (JessRudder.github.io)[jessrudder.github.io] as an example.
+4) Go to [your-user-name].github.io and start playing with your new Pet Egg! See [JessRudder.github.io](jessrudder.github.io) as an example.
 
 Note: If your new friend isn't there yet, don't worry (sometimes shipping is delayed). Just wait a few moments and refresh the page until the egg arrives.
 
