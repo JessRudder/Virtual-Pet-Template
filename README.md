@@ -23,7 +23,7 @@ Right now your pet only has one type of food to eat. If we check the code in `in
     }
   }
 ```
-We could wait until level 9, but that's sooooooo far away and we want our eggy friend to have a new treat sooner! Lets change that to level 1 instead!
+We could wait until level 9, but that's sooooooo far away and we want our eggy friend to have a new treat sooner! Lets change that to level 0 instead!
 
 In GitHub, go to the repository that has the code for your Pet Egg. This should be at github.com/[your-user-nam]>/[your-user-name].github.io.
  
