@@ -1,9 +1,9 @@
 Create your own site using VirtualPet (designed by [CyberPig123](https://github.com/CyberPig123) and coded by [platy11](https://github.com/platy11) and you)!
 
 1) To adopt your very own Pet Egg click "Use this template"
-2) Enter <your-user-name>.github.io as the repository name (for instance, I would put JessRudder.github.io)
+2) Enter [your-user-name].github.io as the repository name (for instance, I would put JessRudder.github.io)
 3) Click "Create repository from template"
-4) Go to <your-user-name>.github.io and start playing with your new Pet Egg! See (JessRudder.github.io)[jessrudder.github.io] as an example.
+4) Go to [your-user-name].github.io and start playing with your new Pet Egg! See (JessRudder.github.io)[jessrudder.github.io] as an example.
 
 Note: If your new friend isn't there yet, don't worry (sometimes shipping is delayed). Just wait a few moments and refresh the page until the egg arrives.
 
@@ -25,7 +25,7 @@ Right now your pet only has one type of food to eat. If we check the code in `in
 ```
 We could wait until level 9, but that's sooooooo far away and we want our eggy friend to have a new treat sooner! Lets change that to level 1 instead!
 
-In GitHub, go to the repository that has the code for your Pet Egg. This should be at github.com/<your-user-name>/<your-user-name>.github.io.
+In GitHub, go to the repository that has the code for your Pet Egg. This should be at github.com/[your-user-nam]>/[your-user-name].github.io.
  
 You should see a list of files. Click on `index.js`.
 
